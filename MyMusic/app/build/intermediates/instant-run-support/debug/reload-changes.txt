@@ -1,3 +1,0 @@
-CHANGED,E:\AndroidDemo\MyMusic\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\mobiletrain\qqmusic\fragment\main\MineFragment$override.class
-CHANGED,E:\AndroidDemo\MyMusic\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\mobiletrain\qqmusic\fragment\main\MineFragment$1$override.class
-CHANGED,E:\AndroidDemo\MyMusic\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
